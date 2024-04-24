@@ -1,0 +1,8 @@
+C:\BuiltSoftware\C#\How Many Of Us\bin\Debug\How Many Of Us.exe.config
+C:\BuiltSoftware\C#\How Many Of Us\bin\Debug\How Many Of Us.exe
+C:\BuiltSoftware\C#\How Many Of Us\bin\Debug\How Many Of Us.pdb
+C:\BuiltSoftware\C#\How Many Of Us\obj\Debug\How Many Of Us.csproj.AssemblyReference.cache
+C:\BuiltSoftware\C#\How Many Of Us\obj\Debug\How Many Of Us.csproj.SuggestedBindingRedirects.cache
+C:\BuiltSoftware\C#\How Many Of Us\obj\Debug\How Many Of Us.csproj.CoreCompileInputs.cache
+C:\BuiltSoftware\C#\How Many Of Us\obj\Debug\How Many Of Us.exe
+C:\BuiltSoftware\C#\How Many Of Us\obj\Debug\How Many Of Us.pdb
